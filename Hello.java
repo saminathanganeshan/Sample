@@ -1,8 +1,9 @@
 public class Hello
 {
-	public static void main(String argp[])
+	public static void main(String args[])
 	{
 		System.out.println("Hello, world");
 		System.out.println("First commit");
+		System.out.println("Second Commit");
 	}
 }
